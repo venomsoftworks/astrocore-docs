@@ -35,7 +35,8 @@ Om de server te kunnen gebruiken is het van groot belang dat je de bestanden op 
   - Open bestanden en delete de "resources" folder. (NIET DIE VAN JE ZIP BESTAND DUS)
   - Verwijder je server.cfg en eventuele sql.cfg of resources.cfg op het paneel.
   - Maak een verbinding met je FTP van het paneel. Dit kan via Filezilla, Termius of WinSCP. Wij raden aan om FileZila te gebruien.
-  - In filezilla open je het uigepakte folder waarin alle bestanden zitten. Hier zie je de map resources en een paar andere bestanden. Sleep deze allemaal naar jouw paneel zijn FTP. 
+  - In filezilla open je het uigepakte folder waarin alle bestanden zitten. Maak een "resources" folder aan in jouw paneel en sleep alle files daarin. 
+  - Sleep de files "server.cfg,mysql.cfg,resources.cfg" naar de root folder (je home)
   - Als je bij de vorige stap een overschrijfmelding krijgt heb je een fout gemaakt. Begin het procces opnieuw.
   - Wacht tot de upload klaar is. SLUIT JE PC NIET AF TERWIJL HIJ BEZIG IS! (Dit kan heel lang duren met slecht internet)
 
